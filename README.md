@@ -1,24 +1,29 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+* Hjalti Hrafn Pétursson
 
 ## 1. Linux uppsetning
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+![Drasl](~/.ssh/mintboot.jpg)
+
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Setti upp vim og git með tveim hefðbundnum skipunum sem tilgreindar voru í verkefnalýsingu. Það gekk mjög vel og án vandræða.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Setti upp Vim og Git. Bjó til account á github.com og SSH lykil og setti hann upp samkvæmt leiðbeiningunum. Klónaði, breytti, committaði og pushaði breytingunum mínum í repositoryið á github.com. Allt ferlið gekk eins og í sögu og án nokkurra vandamála. Þetta lítur allt saman mjög áhugavert út og virðist vera nauðsynlegt í verkefnum sem feiri en einn koma að. Ég hlakka til að kynna mér þetta í síðari áföngum :)
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+https://github.com/ravenh/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Open-source hugbúnaður sem ég er með uppsettann:
+GIMP. Notar LGPL v3+ og GPLv3+ leyfin. Frumkóðann er hægt að nálgast á ftp.gimp.org/pub/gimp/v2.8
+Mozilla Firefox. Notar MPL (Mozilla Public License) leyfið. Frumkóðann er hægt að nálgast á ftp.mozilla.org/pub/mozilla.org/firefox/releases/23.0/source
+LibreOffice. Notar LGPLv3 leyfið. Frumkóðann er hægt að nálgast á www.libreoffice.org/download/?type=src&version=4.1.2
 
 ## 5. Unnið með Git (2. hluti)
 
