@@ -4,8 +4,9 @@
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
-![Drasl](~/.ssh/mintboot.jpg)
+Setti upp Linux Mint fyrir hálfu ári. Það gekk mjög vel og komu ekki nein vandamál upp. Ég hef notað það síðan án vandræða.
+
+Mynd: ![Drasl](mintboot.jpg)
 
 
 ## 2. Uppsetning á vim && git
@@ -21,9 +22,9 @@ https://github.com/ravenh/INTOPrufa
 ## 4. Uppsettur hugbúnaður
 
 Open-source hugbúnaður sem ég er með uppsettann:
-GIMP. Notar LGPL v3+ og GPLv3+ leyfin. Frumkóðann er hægt að nálgast á ftp.gimp.org/pub/gimp/v2.8
-Mozilla Firefox. Notar MPL (Mozilla Public License) leyfið. Frumkóðann er hægt að nálgast á ftp.mozilla.org/pub/mozilla.org/firefox/releases/23.0/source
-LibreOffice. Notar LGPLv3 leyfið. Frumkóðann er hægt að nálgast á www.libreoffice.org/download/?type=src&version=4.1.2
+* GIMP. Notar LGPL v3+ og GPLv3+ leyfin. Frumkóðann er hægt að nálgast á ftp.gimp.org/pub/gimp/v2.8
+* Mozilla Firefox. Notar MPL (Mozilla Public License) leyfið. Frumkóðann er hægt að nálgast á ftp.mozilla.org/pub/mozilla.org/firefox/releases/23.0/source
+* LibreOffice. Notar LGPLv3 leyfið. Frumkóðann er hægt að nálgast á www.libreoffice.org/download/?type=src&version=4.1.2
 
 ## 5. Unnið með Git (2. hluti)
 
