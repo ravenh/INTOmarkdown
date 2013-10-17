@@ -22,8 +22,8 @@ https://github.com/ravenh/INTOPrufa
 ## 4. Uppsettur hugbúnaður
 
 Open-source hugbúnaður sem ég er með uppsettann:
-* GIMP. Notar LGPL v3+ og GPLv3+ leyfin. Frumkóðann er hægt að nálgast á ftp://ftp.gimp.org/pub/gimp/v2.8
-* Mozilla Firefox. Notar MPL (Mozilla Public License) leyfið. Frumkóðann er hægt að nálgast á ftp://ftp.mozilla.org/pub/mozilla.org/firefox/releases/23.0/source
+* GIMP. Notar LGPL v3+ og GPLv3+ leyfin. Frumkóðann er hægt að nálgast á http://ftp.gimp.org/pub/gimp/v2.8
+* Mozilla Firefox. Notar MPL (Mozilla Public License) leyfið. Frumkóðann er hægt að nálgast á http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/23.0/source
 * LibreOffice. Notar LGPLv3 leyfið. Frumkóðann er hægt að nálgast á http://www.libreoffice.org/download/?type=src&version=4.1.2
 
 ## 5. Unnið með Git (2. hluti)
