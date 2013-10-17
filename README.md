@@ -6,7 +6,8 @@
 
 Setti upp Linux Mint fyrir hálfu ári. Það gekk mjög vel og komu ekki nein vandamál upp. Ég hef notað það síðan án vandræða.
 
-Mynd: </br>
+Mynd:
+
 ![Drasl](mintboot.jpg)
 
 
